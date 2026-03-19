@@ -1,3 +1,5 @@
 /*Thử file thôi
 */
-Ngày mới 18 tháng 3
+Hello word ------ running
+
+Hello word ------ running
