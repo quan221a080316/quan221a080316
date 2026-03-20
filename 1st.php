@@ -1,5 +1,5 @@
 /*Thử file thôi
 */
-Hello word ------ running
+Hello world ------ running
 
-Hello word ------ running
+Hello world ------ running
